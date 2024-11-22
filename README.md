@@ -6,7 +6,7 @@
 public class HelloGitHub👋  {
    private String name = "Nikolay Voynov";
    private String address = "Sofia, Bulgaria";
-   private String profession = "Java Software Development Enthusiast";
+   private String profession = "Java Web Developer Enthusiast";
   
 👨‍🎓 public String education() {
     return "Currently studying Java and preparing for my graduation as a Java Software Developer. Graduated with a bachelor degree in Aeronautical Engineering. Graduated Sofia High School of Mathematics.";
