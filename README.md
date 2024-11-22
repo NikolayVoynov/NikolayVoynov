@@ -17,7 +17,9 @@ public class HelloGitHub👋  {
    }
   
 🛠 public String skills() {
-    return "Achiever - I like setting goals and challenge myself. Organized - optimising for the best possible performance and result. Positive - thinking about the opportunities, that every difficulty provides.";
+    return "Achiever - I like setting goals and challenge myself. 
+            Organized - optimising for the best possible performance and result. 
+            Positive - thinking about the opportunities, that every difficulty provides.";
    }
 
 🌎 public List<String> interests() {
