@@ -9,7 +9,7 @@ public class HelloGitHub👋  {
    private String profession = "Java Web Developer Enthusiast";
   
 👨‍🎓 public String education() {
-    return "Currently studying Java and preparing for my graduation as a Java Software Developer. Graduated with a bachelor degree in Aeronautical Engineering. Graduated Sofia High School of Mathematics.";
+    return "Currently studying Java and preparing for my graduation as a Java Web Developer. Graduated with a bachelor degree in Aeronautical Engineering. Graduated Sofia High School of Mathematics.";
    }
 
 🖥 public String experience() {
@@ -42,5 +42,5 @@ public class HelloGitHub👋  {
 }
 ```
 ## 📫 Get in Touch
-- [LinkedIn](https://linkedin.com/in/johnsmith)
+- [LinkedIn](https://www.linkedin.com/in/nikolay-voynov-1284a616a/)
 - [Twitter](https://x.com/NikolayVoynov)
