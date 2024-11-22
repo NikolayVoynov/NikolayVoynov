@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi, I am Nikolay Voynov 👋
 
-<!--
-**NikolayVoynov/NikolayVoynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```language
+/* Personal Info */
+@Component
+public class HelloGitHub👋  {
+   private String name = "Nikolay Voynov";
+   private String address = "Sofia, Bulgaria";
+   private String profession = "Java Software Development Enthusiast";
+  
+👨‍🎓 public String education() {
+    return "Currently studying Java and preparing for my graduation as a Java Software Developer. Graduated with a bachelor degree in Aeronautical Engineering. Graduated Sofia High School of Mathematics.";
+   }
 
-Here are some ideas to get you started:
+🖥 public String experience() {
+    return "10 years of experience as Safety & Compliance Auditor in aviation industry performing audits both on local and international level.";
+   }
+  
+🛠 public String skills() {
+    return "Achiever - I like setting goals and challenge myself. Organized - optimising for the best possible performance and result. Positive - thinking about the opportunities, that every difficulty provides.";
+   }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 public List<String> interests() {
+    return List.of("Java", "Spring", "MySQL", "MariaDB", "Hibernate", "HTML", "CSS", "Thymeleaf", "Bootstrap");
+   }
+
+ℹ️ public void moreInfo() {
+    System.out.println("If you want to know a little more about my life, follow me on my social networks where I share more about myself.");
+   }
+
+   @NotNull
+📬 public String contactMe() {
+    return "Love to make new friends and learn new things every day...";
+   }
+
+   @Override
+🏡 public String toString() {
+    return "Thank you!";
+   }
+}
+```
