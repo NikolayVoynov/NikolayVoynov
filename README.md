@@ -1,6 +1,6 @@
 ## Hi, I am Nikolay Voynov 👋
 
-```language
+```java
 /* Personal Info */
 @Component
 public class HelloGitHub👋  {
