@@ -1,5 +1,9 @@
 ## Hi, I am Nikolay Voynov 👋
 
+## 📫 Get in Touch
+- [LinkedIn](https://linkedin.com/in/johnsmith)
+- [Twitter](https://twitter.com/johnsmith)
+
 ```language
 /* Personal Info */
 @Component
