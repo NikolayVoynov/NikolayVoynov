@@ -42,5 +42,5 @@ public class HelloGitHub👋  {
 }
 ```
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/nikolay-voynov-1284a616a/)
+- [LinkedIn](https://www.linkedin.com/in/nikolay-voynov-b7b42a33a/)
 - [Twitter](https://x.com/NikolayVoynov)
