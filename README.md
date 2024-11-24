@@ -42,6 +42,8 @@ public class HelloGitHub👋  {
    }
 }
 ```
-## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/nikolay-voynov-b7b42a33a/)
-- [Twitter](https://x.com/NikolayVoynov)
+## 🌐 Connect with Me:
+- 📧 **Email:** [nikolay.d.voynov@gmail.com](mailto:nikolay.d.voynov@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikolay-voynov-b7b42a33a/)
+- 🐦 **Twitter:** [@NikolayVoynov](https://x.com/NikolayVoynov)
+
