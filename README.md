@@ -47,3 +47,17 @@ public class HelloGitHub👋  {
 - 💼 **LinkedIn:** [linkedin.com/in/nikolay-voynov-b7b42a33a/](https://www.linkedin.com/in/nikolay-voynov-b7b42a33a/)
 - 🐦 **Twitter:** [@NikolayVoynov](https://x.com/NikolayVoynov)
 
+## 📊 My GitHub Stats:
+<table>
+  <tr>
+    <td>
+       <img src="https://streak-stats.demolab.com?user=NikolayVoynov&theme=radical" alt="Streak Stats" />
+    </td>
+    <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayVoynov&layout=compact&theme=radical" alt="Top Languages" />
+   </td>
+  </tr>
+</table>
+
+
+
