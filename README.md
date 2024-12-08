@@ -53,9 +53,9 @@ public class HelloGitHub👋  {
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=NikolayVoynov&show_icons=true&theme=radical" alt="Streak Stats 1" />
     </td>
-<!--      <td>
+      <td>
       <img src="https://streak-stats.demolab.com?user=NikolayVoynov&theme=radical" alt="Streak Stats 2" />
-    </td> -->
+    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayVoynov&layout=compact&theme=radical" alt="Top Languages" />
     </td>
