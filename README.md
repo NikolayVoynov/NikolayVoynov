@@ -18,7 +18,7 @@ public class HelloGitHub👋  {
     return "10 years of experience as Safety & Compliance Auditor in aviation industry performing audits both on local and international level.";
    }
   
-🛠 public String strengths() {
+💪 public String strengths() {
     return "Visionary Problem-Solver: I like setting goals and challenge myself. 
             Skill Development Advocate - I took the responsibility to organize and conduct several trainings for company personnel. 
             Opportunity-Focused: Thinking about the opportunities, that every difficulty provides.";
