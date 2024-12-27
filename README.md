@@ -9,18 +9,19 @@ public class HelloGitHub👋  {
    private String profession = "Java Web Developer Enthusiast";
   
 👨‍🎓 public String education() {
-    return "Currently studying Java and preparing for my graduation as a Java Web Developer.
-            Graduated with a bachelor degree in Aeronautical Engineering. Graduated Sofia High School of Mathematics.";
+    return "Successfully graduated Alpha Java Program in Telerik Academy.
+            Graduated with a bachelor degree in Aeronautical Engineering.
+            Graduated Sofia High School of Mathematics.";
    }
 
 🖥 public String experience() {
     return "10 years of experience as Safety & Compliance Auditor in aviation industry performing audits both on local and international level.";
    }
   
-🛠 public String skills() {
-    return "Achiever - I like setting goals and challenge myself. 
-            Organized - optimising for the best possible performance and result. 
-            Positive - thinking about the opportunities, that every difficulty provides.";
+🛠 public String strengths() {
+    return "Visionary Problem-Solver: I like setting goals and challenge myself. 
+            Skill Development Advocate - I took the responsibility to organize and conduct several trainings for company personnel. 
+            Opportunity-Focused: Thinking about the opportunities, that every difficulty provides.";
    }
 
 🌎 public List<String> interests() {
