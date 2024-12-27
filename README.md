@@ -19,8 +19,8 @@ public class HelloGitHub👋  {
    }
   
 💪 public String strengths() {
-    return "Visionary Problem-Solver: I like setting goals and challenge myself. 
-            Skill Development Advocate - I took the responsibility to organize and conduct several trainings for company personnel. 
+    return "Visionary Problem-Solver: Like setting goals and challenge myself. 
+            Skill Development Advocate - Took the responsibility to organize and conduct several in-house company trainings. 
             Opportunity-Focused: Thinking about the opportunities, that every difficulty provides.";
    }
 
